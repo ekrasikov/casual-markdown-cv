@@ -1,7 +1,7 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar.jpg" />
 
 <span style="float:right;padding:6px"> 
-  eugene.krasikov@gmail.com <br> mobile: +49(176)191-74190 <br> https://www.linkedin.com/in/ekrasikov/
+  Munich, Germany <br> eugene.krasikov@gmail.com <br> mobile: +49(176)191-74190 <br> https://www.linkedin.com/in/ekrasikov/
 </span>
 
 # Eugene Krasikov  
@@ -38,7 +38,7 @@
 
 * In my latest role, as a Sr. Systems Engineer, I owned a named list of enterprise accounts from technical perspective. I maintained customer relations, developed holistic technical strategy for my accounts leveraging all EMC products and services and leaded all presales activities for my customers. As a member of EMEA Field Senior Technologist group, I was focused on complex solutions, IT strategy and business value. Completed number of eminent projects including the first and largest all-flash storage XtremIO deal in Russia.
 
-* Before that, I introduced a new data storage system (Isilon) onto the local market. As the only Isilon employee in the region I performed both technical and business development tasks. I promoted Isilon internally within EMC and externally to customers and partners, participated in industry events, enabled partners, maintained expert-level technical knowledge and provided presales support of all Isilon deals in the region. Contirbuted to business growth from zero to multi-million in two years.
+* Before that, I introduced a new data storage system (Isilon) onto the local market. As the only Isilon employee in the region I performed both technical and business development tasks. I promoted Isilon internally within EMC and externally to customers and partners, participated in industry events, enabled partners, maintained expert-level technical knowledge and provided presales support of all Isilon deals in the region. Contributed to business growth from zero to multi-million in two years.
 
 ## Skills: 
 
@@ -59,4 +59,4 @@
 
 ## Misc
 
-* Languages: English (fluent), German (B2/C1)
+* Languages: English (fluent), German (B2/C1), Russian (native)

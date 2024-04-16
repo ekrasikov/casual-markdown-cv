@@ -44,7 +44,7 @@
 
 * Strong customer-facing skills. I'm able to build customer relations from scratch, can switch from technical to business topics, communicate at different levels from devops engineers to CxO, and handle difficult conversations.
 
-* Public speaking. I presented at 50+ external events (up to re:Invent), delivered webinars, customer workshops, press-conferences and roundtables.
+* Public speaking. I presented at 50+ external events (up to re:Invent), delivered webinars, customer workshops, press conferences.
 
 * Good overview of modern technology landscape across different domains (cloud infrastructure, data and analytics, devops, software development). I stay technical, and am able to code a sample, run a POC, troubleshoot a problem or develop a complex architecture on AWS. 
 

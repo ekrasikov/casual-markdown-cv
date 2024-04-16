@@ -21,7 +21,7 @@
 #### Amazon Web Services ([Principal] Solutions Architect, 2018 - 2023) 
 
 * Hired as Solutions Architect, promoted to Principal SA in 2022
-* I worked with software companies, games developers and enterprises to help them build on AWS. I built and owned customer relations up to CTO/CPO, designed architectures on AWS for my customers, defined technical account plans working with account managers and other stakeholders.
+* I worked with software companies, games developers and enterprises to help them build on AWS. I built and owned customer relations up to CTO/CPO, designed architectures on AWS for my customers, and led all technical engagements. I defined technical account plans working together with account managers and other stakeholders.
 * I developed technical content (samples - [1](https://d1.awsstatic.com/whitepapers/content-delivery-for-games.pdf), [2](https://github.com/aws-samples/aws-lambda-clickhouse), [3](https://docs.aws.amazon.com/whitepapers/latest/best-practices-building-data-lake-for-games/contributors.html)) and spoke at various events (up to re:Invent).
 * As a Principal I led a team, contributed to organisational initiatives and planning, engaged with top-customers within the territory. 
 

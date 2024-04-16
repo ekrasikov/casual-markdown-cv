@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar.png" />
 
 <span style="float:right;padding:6px"> 
   Munich, Germany <br> eugene.krasikov@gmail.com <br> mobile: +49(176)191-74190 <br> https://www.linkedin.com/in/ekrasikov/

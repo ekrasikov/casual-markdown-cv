@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar.png" />
 
 <span style="float:right;padding:6px"> 
-  Munich, Germany <br> eugene.krasikov@gmail.com <br> mobile: +49(176)191-74190 <br> https://www.linkedin.com/in/ekrasikov/
+  eugene.krasikov@gmail.com <br> mobile: +49(176)191-74190 <br> https://www.linkedin.com/in/ekrasikov/
 </span>
 
 # Eugene Krasikov  
@@ -11,12 +11,13 @@
 * 14 years in customer-facing tech roles, including Principal Solutions Architect and Sr Manager
 * In-depth knowledge of AWS, good overview of overall technology landscape, extra focus on data and analytics
 * People managment experience
+* Based in Munich, Germany
 
 ## Work Experience
 
 #### Amazon Web Services (Sr Manager, Solutions Architecture, 2023/05 - present) 
 
-* I lead a team of Solutions Architects working with software companies. This includes hiring, onboarding, developing the team, as well as defining technical strategy and engaging customers.
+* I lead a team of Solutions Architects working with software companies. This includes hiring, onboarding, developing the team, as well as defining technical strategy for the territory and engaging customers.
 
 #### Amazon Web Services ([Principal] Solutions Architect, 2018 - 2023) 
 

@@ -15,22 +15,22 @@
 
 ## Work Experience
 
-#### Amazon Web Services (Sr Manager, Solutions Architecture, 2023/05 - present) 
+#### Amazon Web Services (Sr Manager, Solutions Architecture, 2023/05 - present, Munich) 
 
 * I lead a team of Solutions Architects working with software companies. This includes hiring, onboarding, developing the team, as well as defining technical strategy for the territory and engaging customers.
 
-#### Amazon Web Services ([Principal] Solutions Architect, 2018 - 2023) 
+#### Amazon Web Services ([Principal] Solutions Architect, 2018 - 2023, Munich) 
 
 * Hired as Solutions Architect, promoted to Principal SA in 2022
 * I worked with software companies, games developers and enterprises to help them build on AWS. I built and owned customer relations up to CTO/CPO, designed architectures on AWS for my customers, delivered POC, demos and workshops, and overall led all technical engagements. I defined technical account plans working together with account managers and other stakeholders.
 * I developed technical content (samples - [1](https://d1.awsstatic.com/whitepapers/content-delivery-for-games.pdf), [2](https://github.com/aws-samples/aws-lambda-clickhouse), [3](https://docs.aws.amazon.com/whitepapers/latest/best-practices-building-data-lake-for-games/contributors.html)) and spoke at various events (up to re:Invent).
 * As a Principal I led a team, contributed to organisational initiatives and planning, and engaged with top-customers within the territory. 
 
-#### NetApp (Systems Engineer, 2017-2018)
+#### NetApp (Systems Engineer, 2017-2018, Moscow)
 
 * I worked with enterprise customers, including the biggest ones in the country. I also promoted NetApp's emerging technologies: hyper-converged infrastructure and cloud services.
 
-#### SimpliVity (Solutions Architect, 2016-2017)
+#### SimpliVity (Solutions Architect, 2016-2017, Moscow)
 
 * I organised all technical activities to introduce a new IT infrastructure product onto the regional market. I learned technology in-depth, onboarded partners, did tons of presentations at events, prepared local marketing collateral and technically drove all deals in the region (customer meetings, presentations, solutions design, proof-of-concepts).
 * During the year together with an account manager we set up channel and closed the first deals. Then the company was acquired by HPE.
